@@ -33,19 +33,13 @@ const sourceUrls: Record<GuidelineSource, string> = {
   GIRFT: 'https://gettingitrightfirsttime.co.uk/programmes/urology',
 };
 
-// TODO (release): swap this for your Cloudflare Worker URL and remove the API key
-// from the app entirely. The Worker holds the key server-side and rate-limits.
-const GEMINI_ENDPOINT =
-  'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent';
-
-// TODO: Fix Constants.expoConfig.extra reading for production
-function getApiKey(): string {
-  const key = Constants.expoConfig?.extra?.geminiApiKey || Constants.manifest?.extra?.geminiApiKey;
-  if (!key) {
-    // Fallback for development - replace with your actual API key
-    return 'YOUR_GEMINI_API_KEY_HERE';
+// Get the Cloudflare Worker URL from app config
+function getWorkerUrl(): string {
+  const url = Constants.expoConfig?.extra?.workerUrl || Constants.manifest?.extra?.workerUrl;
+  if (!url) {
+    throw new Error('Worker URL not configured in app.json');
   }
-  return key;
+  return url;
 }
 
 export async function searchGuidelines(
@@ -69,7 +63,7 @@ Rules:
 - If the information is not available in the guidelines, state this clearly
 - Structure your answer to show which guidelines say what, especially when sources provide different perspectives`;
 
-  const res = await fetch(`${GEMINI_ENDPOINT}?key=${getApiKey()}`, {
+  const res = await fetch(getWorkerUrl(), {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({

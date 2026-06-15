@@ -36,7 +36,7 @@
       "expo-status-bar"
     ],
     "extra": {
-      "geminiApiKey": "YOUR_GEMINI_API_KEY_HERE",
+      "workerUrl": "https://myuropal-worker.leo-kretzmer.workers.dev",
       "firebaseApiKey": "AIzaSyDnY8Lw2N6pECIvMawodKY5rROMrWWLRkU",
       "firebaseAuthDomain": "myuropal.firebaseapp.com",
       "firebaseProjectId": "myuropal",
