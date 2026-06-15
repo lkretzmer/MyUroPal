@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Instillation of anti-cancer drugs into the bladder for chemotherapy",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Intravesical%20chemotherapy.pdf"
+  },
+  {
+    "title": "Instillation of BCG into the bladder for immunotherapy",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/BCG.pdf"
+  },
+  {
+    "title": "Instillations for painful bladder conditions",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Painful%20bladder.pdf"
+  },
+  {
+    "title": "Catheter valves",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Catheter%20valves.pdf"
+  },
+  {
+    "title": "Management of a urethral catheter",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Catheter.pdf"
+  },
+  {
+    "title": "Permanent suprapubic catheter (in men)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Suprapubic%20care%20male.pdf"
+  },
+  {
+    "title": "Permanent suprapubic catheter (in women)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Suprapubic%20care%20female.pdf"
+  },
+  {
+    "title": "Self-catheterisation in men",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/ISC%20male.pdf"
+  },
+  {
+    "title": "Self-catheterisation in women",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/ISC%20female.pdf"
+  },
+  {
+    "title": "Trial without catheter (TWOC)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Trial%20without%20catheter.pdf"
+  },
+  {
+    "title": "Urodynamics (pressure tests on the bladder)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Urodynamics.pdf"
+  },
+  {
+    "title": "Flexible cystoscopy ± biopsy or stent removal",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Flexible%20cystoscopy.pdf"
+  },
+  {
+    "title": "Rigid cystoscopy ± biopsy or stent removal",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Rigid%20cystoscopy.pdf"
+  },
+  {
+    "title": "Bladder stone crushing (endoscopic litholapaxy)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Endoscopic%20litholapaxy.pdf"
+  },
+  {
+    "title": "Bladder tumour resection",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Bladder%20tumour%20resection.pdf"
+  },
+  {
+    "title": "Bladder washout for blood clots",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Bladder%20washout%20for%20clots.pdf"
+  },
+  {
+    "title": "Botulinum toxin-A (Botox®) injections into the bladder wall",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Botox.pdf"
+  },
+  {
+    "title": "Cystoscopy & retrograde studies",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Retrograde%20ureterography.pdf"
+  },
+  {
+    "title": "Hydrodistension (stretching) of the bladder",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Hydrodistension.pdf"
+  },
+  {
+    "title": "Stretching of the bladder neck (dilatation) in women",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Bladder%20neck%20dilatation%20in%20women.pdf"
+  },
+  {
+    "title": "Autologous sling procedure for stress urinary incontinence in women",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Autologous%20female%20sling.pdf"
+  },
+  {
+    "title": "Colposuspension for stress urinary incontinence (SUI)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Colposuspension.pdf"
+  },
+  {
+    "title": "Enlargement of the bladder with a piece of bowel (enterocystoplasty)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Enterocystoplasty.pdf"
+  },
+  {
+    "title": "Pelvic floor exercises (in men)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Pelvic%20floor%20XS%20male.pdf"
+  },
+  {
+    "title": "Pelvic floor exercises (in women)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Pelvic%20floor%20XS%20female.pdf"
+  },
+  {
+    "title": "Removal of a retropubic mesh sling",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/BAUS-BSUG-Retropubic-V1.pdf"
+  },
+  {
+    "title": "Removal of a transobturator (TVT) mesh tape or single-incision mini-sling",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/BAUS-BSUG-Obturator-V1.pdf"
+  },
+  {
+    "title": "Sacral nerve stimulation (neuromodulation)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Sacral%20neuromodulation.pdf"
+  },
+  {
+    "title": "Synthetic mesh tape insertion (in men)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Synthetic%20sling%20male.pdf"
+  },
+  {
+    "title": "Synthetic mesh tape insertion (in women)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Hysteropexy%20Comps%20Decision%20Aid.pdf"
+  },
+  {
+    "title": "Treating complications from mesh used for stress urinary incontinence - a patient decision aid",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/TOT%20Comps%20Decision%20Aid.pdf"
+  },
+  {
+    "title": "Treatment options for overactive bladder (OAB)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/OAB%20options.pdf"
+  },
+  {
+    "title": "Treatment options for stress urinary incontinence (SUI)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/SUI%20options.pdf"
+  },
+  {
+    "title": "Urethral bulking",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Urethral%20bulking.pdf"
+  },
+  {
+    "title": "Vaginal fistula repair (abdominal)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Vaginal%20fistula%20abdominal.pdf"
+  },
+  {
+    "title": "Vaginal fistula repair (vaginal)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Vaginal%20fistula%20vaginal.pdf"
+  },
+  {
+    "title": "Living with a urostomy",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Urostomy.pdf"
+  },
+  {
+    "title": "Radical bladder removal with bladder replacement (in men)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20cyst%20male%20neobladder.pdf"
+  },
+  {
+    "title": "Radical bladder removal with bladder replacement (in women)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20cyst%20female%20neobladder.pdf"
+  },
+  {
+    "title": "Radical bladder removal with urinary diversion (in men)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20cyst%20male%20conduit.pdf"
+  },
+  {
+    "title": "Radical bladder removal with urinary diversion (in women)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20cyst%20female%20conduit.pdf"
+  },
+  {
+    "title": "Simple removal of the bladder (with urinary diversion)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Simple%20cystectomy.pdf"
+  },
+  {
+    "title": "Mitrofanoff procedure (creation of a catheterisable urinary stoma)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Mitrofanoff.pdf"
+  },
+  {
+    "title": "Urinary diversion (into ileal conduit)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Ileal%20conduit.pdf"
+  },
+  {
+    "title": "Bladder training",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Bladder%20training.pdf"
+  },
+  {
+    "title": "Input/output chart (bladder diary)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Input%20output%20chart.pdf"
+  },
+  {
+    "title": "Ketamine bladder",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/BAUS%20Ketamine%20Bladder.pdf"
+  },
+  {
+    "title": "Nocturnal polyuria (passing too much urine at night)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Nocturnal%20polyuria.pdf"
+  },
+  {
+    "title": "Painful bladder syndrome questionnaire",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/IC%20symptom%20score.pdf"
+  },
+  {
+    "title": "Self-help information for recurrent cystitis in women",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Recurrent%20cystitis.pdf"
+  },
+  {
+    "title": "Urinary & sexual problems following pelvic trauma",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Pelvic%20trauma.pdf"
+  },
+  {
+    "title": "Urinary tract infection (quick guide)",
+    "category": "Bladder",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/UTI_quick_ref.pdf"
+  },
+  {
+    "title": "Electroejaculation",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Electroejaculation.pdf"
+  },
+  {
+    "title": "Premature ejaculation questionnaire",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/PEDT.pdf"
+  },
+  {
+    "title": "Urinary & sexual problems following pelvic trauma",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Pelvic%20trauma.pdf"
+  },
+  {
+    "title": "Vasectomy",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Vasectomy.pdf"
+  },
+  {
+    "title": "Vasectomy reversal",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Reversal%20of%20vasectomy.pdf"
+  },
+  {
+    "title": "Biopsy of testis ± storage of tissue",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Testicular%20biopsy.pdf"
+  },
+  {
+    "title": "How to do a male fertilty test (sperm count)",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Fertility%20tests.pdf"
+  },
+  {
+    "title": "How to do a post-vasectomy sperm count",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Postvasectomy%20counts.pdf"
+  },
+  {
+    "title": "Microsurgical varicocele ligation",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Varico%20open.pdf"
+  },
+  {
+    "title": "Sperm retrieval from the testis, vas deferens or epididymis",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Sperm%20retrieval.pdf"
+  },
+  {
+    "title": "Varicocele embolisation (radiological)",
+    "category": "Fertility & Infertility",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Varico%20emb.pdf"
+  },
+  {
+    "title": "Laparoscopic removal of the adrenal gland",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Adrenalectomy%20lap.pdf"
+  },
+  {
+    "title": "Open removal of the adrenal gland",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Adrenalectomy%20open.pdf"
+  },
+  {
+    "title": "Laparoscopic or open de-roofing of a simple kidney cyst",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Deroof%20renal%20cyst.pdf"
+  },
+  {
+    "title": "Laparoscopic radical removal of kidney (for suspected cancer)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Radical%20nephrectomy%20lap.pdf"
+  },
+  {
+    "title": "Laparoscopic removal of the kidney for benign disease (simple nephrectomy)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Simple%20nephrectomy%20lap.pdf"
+  },
+  {
+    "title": "Laparoscopic removal of the whole kidney & ureter (nephroureterectomy)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Nephroureterectomy%20lap.pdf"
+  },
+  {
+    "title": "Partial removal of the kidney (laparoscopic)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Partial%20nephrectomy%20lap.pdf"
+  },
+  {
+    "title": "Partial removal of the kidney (robotic)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Partial%20nephrectomy%20robotic.pdf"
+  },
+  {
+    "title": "Cryoablation (freezing) of a renal tumour",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Cryoablate%20renal%20lesion.pdf"
+  },
+  {
+    "title": "Open removal of the kidney for benign conditions (simple nephrectomy)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Simple%20nephrectomy%20open.pdf"
+  },
+  {
+    "title": "Partial removal of the kidney (open)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Partial%20nephrectomy%20open.pdf"
+  },
+  {
+    "title": "Radical removal of a kidney (for suspected cancer)",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Radical%20nephrectomy%20open.pdf"
+  },
+  {
+    "title": "Radical removal of the kidney & ureter",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Nephroureterectomy%20open.pdf"
+  },
+  {
+    "title": "Percutaneous nephrostomy tube insertion",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Percutaneous%20nephrostomy.pdf"
+  },
+  {
+    "title": "Radiofrequency ablation (heating) of a renal tumour",
+    "category": "Kidney & Adrenal",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Radioablate%20renal%20lesion.pdf"
+  },
+  {
+    "title": "Removal or biopsy of a skin lesion",
+    "category": "Miscellaneous",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Skin%20biopsy.pdf"
+  },
+  {
+    "title": "Drainage of the penis for priapism",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Priapism.pdf"
+  },
+  {
+    "title": "Implantation of penile prostheses",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Penile%20prostheses.pdf"
+  },
+  {
+    "title": "Implantation of penile prostheses (patient counselling)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Penile%20Prosthesis%20Counselling.pdf"
+  },
+  {
+    "title": "Penile injections for erectile dysfunction",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Penile%20injection%20for%20erection.pdf"
+  },
+  {
+    "title": "Repair of a fractured penis",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Penile%20injury.pdf"
+  },
+  {
+    "title": "Penile straightening (for erectile deformity)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Penile%20straightening.pdf"
+  },
+  {
+    "title": "Carbon dioxide (CO2) laser treatment for penile cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/CO2%20laser.pdf"
+  },
+  {
+    "title": "Glans resurfacing for penile cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Glans%20resurfacing.pdf"
+  },
+  {
+    "title": "Glansectomy for penile cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Glansectomy.pdf"
+  },
+  {
+    "title": "Inguinal dynamic sentinel node biopsy (DSNB)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/DSNB.pdf"
+  },
+  {
+    "title": "Inguinal lymph node dissection",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/ILND.pdf"
+  },
+  {
+    "title": "Partial penectomy",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Partial%20penectomy.pdf"
+  },
+  {
+    "title": "Pelvic lymph node dissection for penile cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/PLND.pdf"
+  },
+  {
+    "title": "Penectomy (subtotal or total)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Penectomy.pdf"
+  },
+  {
+    "title": "Penile biopsy for suspected cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Penile%20biopsy.pdf"
+  },
+  {
+    "title": "Penile intra-epithelial neoplasia (PeIN)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/PeIN.pdf"
+  },
+  {
+    "title": "Radical circumcision for penile cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Radical%20circumcision.pdf"
+  },
+  {
+    "title": "Wide local excision for penile cancer",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Wide%20excision.pdf"
+  },
+  {
+    "title": "Circumcision",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Circumcision.pdf"
+  },
+  {
+    "title": "Dorsal slit of the foreskin",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Dorsal%20slit.pdf"
+  },
+  {
+    "title": "Freeing of foreskin (preputial) adhesions",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Preputial%20adhesions.pdf"
+  },
+  {
+    "title": "Frenuloplasty",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Frenuloplasty.pdf"
+  },
+  {
+    "title": "Removal or biopsy of a skin lesion",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Skin%20biopsy.pdf"
+  },
+  {
+    "title": "Meatal dilatation",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Endoscopic%20stricture%20treatment.pdf"
+  },
+  {
+    "title": "Meatoplasty",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Meatoplasty.pdf"
+  },
+  {
+    "title": "Removal or biopsy of meatal lesion",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Open%20ureth%20lesion.pdf"
+  },
+  {
+    "title": "Erectile dysfunction (treatment options)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Erectile%20dysfunction.pdf"
+  },
+  {
+    "title": "International index of erectile function (IIEF)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/iief.pdf"
+  },
+  {
+    "title": "Managing testosterone deficiency",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Managing%20testosterone%20deficiency.pdf"
+  },
+  {
+    "title": "Medical treatment for erectile dysfunction",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Viagra.pdf"
+  },
+  {
+    "title": "Peyronie's disease",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Peyronies.pdf"
+  },
+  {
+    "title": "Premature ejaculation questionnaire",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/PEDT.pdf"
+  },
+  {
+    "title": "Sexual Health Inventory for Men (SHIM)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/SHIM.pdf"
+  },
+  {
+    "title": "Vacuum erection assistance devices (VEDs)",
+    "category": "Penis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/VEDs.pdf"
+  },
+  {
+    "title": "Aquablation for benign prostate enlargement",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Aquablation.pdf"
+  },
+  {
+    "title": "Green light laser prostatectomy",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Greenlight.pdf"
+  },
+  {
+    "title": "Holmium laser enucleation of the prostate (HoLEP)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/HoLEP.pdf"
+  },
+  {
+    "title": "Holmium laser incision of the bladder neck (HoLBNI)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/HoLBNI.pdf"
+  },
+  {
+    "title": "Incision of the bladder neck",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Bladder%20neck%20incision.pdf"
+  },
+  {
+    "title": "Rezūm steam ablation of the prostate",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rezum.pdf"
+  },
+  {
+    "title": "TURP for benign disease",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/TURP%20for%20benign.pdf"
+  },
+  {
+    "title": "TURP for cancer",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/TURP%20for%20cancer.pdf"
+  },
+  {
+    "title": "Urolift® procedure",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Urolift.pdf"
+  },
+  {
+    "title": "Radical laparoscopic prostatectomy",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20prost%20robot.pdf"
+  },
+  {
+    "title": "Robotic-assisted radical prostatectomy (RARP)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20prost%20robot.pdf"
+  },
+  {
+    "title": "Open removal of the prostate for benign disease",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Millin.pdf"
+  },
+  {
+    "title": "Radical retropubic prostatectomy",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Rad%20prost%20retro.pdf"
+  },
+  {
+    "title": "Brachytherapy planning for prostate cancer",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Brachy%20planning.pdf"
+  },
+  {
+    "title": "Brachytherapy treatment for prostate cancer (permanent seed brachytherapy)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Brachy%20treatment.pdf"
+  },
+  {
+    "title": "Transperineal prostate  biopsies",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Transperineal%20biopsies.pdf"
+  },
+  {
+    "title": "Transrectal prostate ultrasound & biopsies",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/TRUSP%20biopsies.pdf"
+  },
+  {
+    "title": "Active surveillance for low to intermediate grade prostate cancer",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Active%20surveillance.pdf"
+  },
+  {
+    "title": "Advice to patients requesting PSA measurement",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/PSA%20Advice.pdf"
+  },
+  {
+    "title": "Chronic prostatitis symptom score (NIH-CPSI)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/NIH-CPSI.pdf"
+  },
+  {
+    "title": "Input/output chart (bladder diary)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Input%20output%20chart.pdf"
+  },
+  {
+    "title": "International prostate symptom score (I-PSS)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/IPSS.pdf"
+  },
+  {
+    "title": "Male lower urinary tract symptoms (LUTS)",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Male%20LUTS.pdf"
+  },
+  {
+    "title": "Managing male LUTS",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Male%20LUTS.pdf"
+  },
+  {
+    "title": "Performing a urinary flow rate",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Flow%20rate%20measurement.pdf"
+  },
+  {
+    "title": "POSSUM scoring for TURP",
+    "category": "Prostate",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Possum.pdf"
+  },
+  {
+    "title": "Excision of retroperitoneal mass",
+    "category": "Retroperitoneum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Excision%20of%20RP%20mass.pdf"
+  },
+  {
+    "title": "Retroperitoneal excision of abdominal lymph nodes (usually for testicular cancer)",
+    "category": "Retroperitoneum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/RPLND.pdf"
+  },
+  {
+    "title": "Ureterolysis for retroperitoneal fibrosis",
+    "category": "Retroperitoneum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Ureterolysis.pdf"
+  },
+  {
+    "title": "Percutaneous (keyhole) removal of stones from kidney",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/PCNL.pdf"
+  },
+  {
+    "title": "Laparoscopic ureterolithotomy",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Ureterolithotomy%20lap.pdf"
+  },
+  {
+    "title": "Ureteric stent insertion",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Ureteric%20stent%20insertion.pdf"
+  },
+  {
+    "title": "Ureteroscopy for stone(s)",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Ureteroscopy%20for%20stone.pdf"
+  },
+  {
+    "title": "ESWL for kidney and ureteric stones",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/ESWL.pdf"
+  },
+  {
+    "title": "Advice to patients with a ureteric stent",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Stent%20advice.pdf"
+  },
+  {
+    "title": "Dietary advice to recurrent stone formers",
+    "category": "Stones",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Stone%20diet.pdf"
+  },
+  {
+    "title": "Biopsy of testis ± storage of tissue",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Testicular%20biopsy.pdf"
+  },
+  {
+    "title": "Embolisation (radiological) of a varicocele",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Varico%20emb.pdf"
+  },
+  {
+    "title": "Exploration for suspected torsion of the testis",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Torsion%20of%20testis.pdf"
+  },
+  {
+    "title": "Fixation of one (or both) retractile testicle(s)",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Retractile%20testis.pdf"
+  },
+  {
+    "title": "Insertion of an artificial testis (prosthesis)",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Testicular%20prosthesis.pdf"
+  },
+  {
+    "title": "Microsurgical varicocele\tligation",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Varico%20open.pdf"
+  },
+  {
+    "title": "Orchidopexy for an undescended testis",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Orchidopexy%20for%20UDT.pdf"
+  },
+  {
+    "title": "Removal of a cyst from the epididymis",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Epididymal%20cyst.pdf"
+  },
+  {
+    "title": "Repair of an adult hydrocele",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Hydrocele.pdf"
+  },
+  {
+    "title": "Simple (scrotal) removal of a testis ± silicone implant",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Simple%20orchidectomy.pdf"
+  },
+  {
+    "title": "Vasectomy",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Vasectomy.pdf"
+  },
+  {
+    "title": "Vasectomy reversal",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Reversal%20of%20vasectomy.pdf"
+  },
+  {
+    "title": "Radical removal of a testis through the groin ± silicone implant",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Radical%20orchidectomy.pdf"
+  },
+  {
+    "title": "Retroperitoneal excision of abdominal lymph nodes",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/RPLND.pdf"
+  },
+  {
+    "title": "Chronic prostatitis symptom questionnaire (NIH-CPSI)",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/NIH-CPSI.pdf"
+  },
+  {
+    "title": "Chronic scrotal pain",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Chronic%20scrotal%20pain.pdf"
+  },
+  {
+    "title": "Instructions on testicular self-examination",
+    "category": "Testis & Scrotum",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Testicular%20self%20examination.pdf"
+  },
+  {
+    "title": "Access surgery for peritoneal dialysis in kidney failure",
+    "category": "Transplant & Dialysis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Access%20for%20peritoneal%20dialysis.pdf"
+  },
+  {
+    "title": "Vascular access for haemodialysis\tin kidney failure",
+    "category": "Transplant & Dialysis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Access%20for%20haemodialysis.pdf"
+  },
+  {
+    "title": "Laparoscopic live donor nephrectomy",
+    "category": "Transplant & Dialysis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Live%20donor%20nephrectomy%20lap.pdf"
+  },
+  {
+    "title": "Live donor nephrectomy by open surgery",
+    "category": "Transplant & Dialysis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Live%20donor%20nephrectomy%20open.pdf"
+  },
+  {
+    "title": "Kidney transplantation from a live-related or cadaveric donor",
+    "category": "Transplant & Dialysis",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Kidney%20transplant.pdf"
+  },
+  {
+    "title": "Diagnostic ureteroscopy",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Diagnostic%20ureteroscopy.pdf"
+  },
+  {
+    "title": "Endopyelotomy (laser)",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Endopyelotomy.pdf"
+  },
+  {
+    "title": "Insertion of a ureteric stent",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Ureteric%20stent%20insertion.pdf"
+  },
+  {
+    "title": "Insertion of an extra-anatomic ureteric stent",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Extraanatomic%20stent%20insertion.pdf"
+  },
+  {
+    "title": "Reconstruction of the kidney pelvis (laparoscopic)",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Pyeloplasty%20lap.pdf"
+  },
+  {
+    "title": "Reconstruction of the kidney pelvis (open)",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Pyeloplasty%20open.pdf"
+  },
+  {
+    "title": "Reconstruction of the ureter",
+    "category": "Ureter",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Ureteric%20reconstruction.pdf"
+  },
+  {
+    "title": "Female urethroplasty",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Female%20Urethroplasty.pdf"
+  },
+  {
+    "title": "General information about urethral stricture disease",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Urethral%20stricture%20disease.pdf"
+  },
+  {
+    "title": "Meatotomy or meatoplasty",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Meatoplasty.pdf"
+  },
+  {
+    "title": "Optical urethrotomy (for urethral stricture)",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Endoscopic%20stricture%20treatment.pdf"
+  },
+  {
+    "title": "Perineal urethrostomy",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Perineal%20urethrostomy.pdf"
+  },
+  {
+    "title": "Urethral dilatation",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/Patients/Leaflets/Endoscopic%20stricture%20treatment.pdf"
+  },
+  {
+    "title": "Urethroplasty (bulbar)",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Bulbar%20urethroplasty.pdf"
+  },
+  {
+    "title": "Urethroplasty (bulbo-prostatic)",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Bulbo-prostatic%20urethroplasty.pdf"
+  },
+  {
+    "title": "Urethroplasty (distal)",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Distal%20urethroplasty.pdf"
+  },
+  {
+    "title": "Urethroplasty (penile)",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Penile%20urethroplasty.pdf"
+  },
+  {
+    "title": "Open removal of a urethral lesion",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Open%20ureth%20lesion.pdf"
+  },
+  {
+    "title": "Removal of a diverticulum (outpouching) from the urethra",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Urethral%20diverticulum.pdf"
+  },
+  {
+    "title": "Urethrectomy (removal of the urethra)",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Urethrectomy.pdf"
+  },
+  {
+    "title": "Urinary & sexual problems following pelvic trauma",
+    "category": "Urethra",
+    "pdfUrl": "https://www.baus.org.uk/_userfiles/pages/files/patients/leaflets/Pelvic%20trauma.pdf"
+  }
+]

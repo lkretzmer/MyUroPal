@@ -6,8 +6,14 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "myuropal",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.myuropal.app",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Allow MyUroPal to access your microphone for voice dictation in the guideline search.",
+        "NSSpeechRecognitionUsageDescription": "Allow MyUroPal to use speech recognition to transcribe your voice for dictation in the guideline search."
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -16,10 +22,28 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.myuropal.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "extra": {
+      "geminiApiKey": "YOUR_GEMINI_API_KEY_HERE",
+      "firebaseApiKey": "AIzaSyDnY8Lw2N6pECIvMawodKY5rROMrWWLRkU",
+      "firebaseAuthDomain": "myuropal.firebaseapp.com",
+      "firebaseProjectId": "myuropal",
+      "firebaseStorageBucket": "myuropal.firebasestorage.app",
+      "firebaseMessagingSenderId": "1005897821802",
+      "firebaseAppId": "1:1005897821802:web:e9d4d0c47a737b4f6ee413",
+      "firebaseMeasurementId": ""
     }
   }
 }
